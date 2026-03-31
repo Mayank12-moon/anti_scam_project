@@ -28,7 +28,7 @@ Online scams such as UPI fraud, phishing messages, and fake links are increasing
 ---
 ##  How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/yourusername/anti-scam-project.git
+   https://github.com/Mayank12-moon/anti_scam_project
 2. Navigate to the folder:
    cd anti-scam-project
 3. Install dependencies:
